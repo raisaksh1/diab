@@ -1,5 +1,10 @@
 Flask
 scikit-learn
 pandas
+<<<<<<< HEAD
 numpy
 matplotlib
+=======
+numpy 
+matplotlib
+>>>>>>> 97bc58a90177cdb6437c72f931d0f476527d1bdb
